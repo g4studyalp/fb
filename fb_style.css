@@ -1,0 +1,130 @@
+.content{
+    height: 768px;
+    width: 100%;
+}
+.div1{
+    height:650px;
+    width: 50%;
+    float: left;
+    background-color:#f0f2f5;
+
+}
+.logo{
+    width: 301px;
+    height:106px;
+    margin-top: 150px;
+    margin-left: 25%;
+}
+.motto{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    
+    font-size: 26px;
+    margin-left: 30%;
+}
+.signup{
+    width: 396px;
+    height: 370px;
+    margin-left: 50px;
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 15px;
+    text-align: center;
+    border-color: #a59f9f;
+}
+.field{
+    height: 52px;
+    width: 364px;
+    margin-top: 10px;
+    font-family: inherit;
+    font-size: 20px;
+    color: #a99b9b;
+    border-radius: 5px;
+    border-color:#f0f2f5;
+    border:ridge;
+    border-width: 1px;
+    
+}
+.login{
+    height: 52px;
+    width: 364px;
+    margin-top: 10px;
+    font-family:'lucida grande', tahoma, verdana, arial, sans-serif;
+    font-size:20px;
+    font-style: bold;
+    color:white;
+    background-color: #1877f2;
+    border-radius: 5px;
+    border:none;
+}
+.fpassword{
+    margin-top: 10px; 
+    color: #1877f2;
+}
+.fp{
+    color: #1877f2;
+    text-decoration: none;
+  }
+  hr{
+    margin-top: 30px;
+    width: 364px;
+    color: #a99b9b;
+  }
+  .new-acc{
+            background-color:#42b72a;
+            height: 52px;
+            width:200px;
+            margin-top: 20px;
+            border-radius: 5px;
+            border:none;
+            color:white;
+            font-size: 20px;
+  }
+  .login,.new-acc:hover{
+    cursor: pointer;
+  }
+  .sign-footer{
+    margin-left: 102px;
+    margin-top: 20px;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    float:left;
+  }
+  .foot-link{
+    color: black;
+    text-decoration: none;
+  }
+  .footer{
+        margin-left: 150px;
+        margin-top: 20px;
+        width:100%;
+        float: left;
+        font-size: 14px;
+        }
+.footer-link{
+    text-decoration: none;
+    color: #a59f9f;
+}
+.hr-foot{
+    color: #a99b9b;
+    width:846px;
+    margin-left: 150px;
+    margin-top: 5px;
+    float:left;
+}
+.footer2{
+    margin-left: 150px;
+    float: left;
+    font-size: 14px;
+}
+.footerf{
+    margin-left: 150px;
+    display:grid;
+    font-size: 12px;
+    display: grid;
+    width:100%;
+    height:100px;
+    color: #a99b9b;
+    padding-top: 20px;
+    font-weight: bold;
+}
+  
